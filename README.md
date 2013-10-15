@@ -8,7 +8,7 @@ Determining factors of a large integer number has been of interest to man since 
 general algorithm for this problem that scales in less than exponential time with respect to the number of bits needed 
 to represent the integer number. 
 
-Integer factorization is more than just theoretical interest.  It is the foundation of public RSA encryption that keeps
+Integer factorization is more than just of theoretical interest.  It is the foundation of public RSA encryption that keeps
 your transactions with your bank or an online retailer safe!
 
 What this code does
