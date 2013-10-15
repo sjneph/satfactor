@@ -57,7 +57,7 @@ may not be prime numbers (you could test that case easily in Maxima, Maple, or M
 iencode and try to solve further. UNSAT means an input integer was prime.
 
 Not all SATISFIABILITY solvers output results in the same format.  You may need to doctor the results up slightly.  extract-sat 
-requires a solution file containing a list of integers (on any number of lines).  For example,
+requires a solution file containing a list of integers (on any number of lines).  For example, 
 1 -2 3 4 -5 ...
 
 To-Do 
