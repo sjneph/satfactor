@@ -34,11 +34,8 @@ There are some open-source SATISFIABILITY solvers.  See http://www.satlive.org/ 
 Build
 ======
 cd src 
-
 make 
-
 ../bin/iencode -h 
-
 ../bin/extract-sat -h 
 
 How-To
