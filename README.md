@@ -46,8 +46,8 @@ iencode 10101 > composite.21
 // solve with your favorite solver and put results in solution.txt  
 extract-sat composite.21 solution.txt  
 
-The output would be: 
-00011 
+The output would be:  
+00011  
 00111 
 
 which are binary representations for decimals 3 and 7, the factors of 21. 
