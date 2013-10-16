@@ -14,14 +14,14 @@ your transactions with your bank or an online retailer safe!
 What this code does
 ==================== 
 Convert an integer factorization problem into a boolean SATISFIABILITY problem. 
-If the problem is solved, extracts the integer factors of interest.
+If the problem is solved by a SAT solver, extracts the integer factors of interest.
  
 Boolen satisfiability solvers improve every year. Every 2 years, an international competition between solvers takes place (see 
 http://www.satcompetition.org/ and http://www.satlive.org/).  How well can these state-of-the-art solvers do against one of the 
 oldest open math problems in existence? 
 
 This project has 2 main purposes: 
-1) Factor an integer of interest! 
+1) Convert the problem and factor an integer of interest! 
 2) Quickly create either a solvable or unsolvable SATISFIABILITY problem, whose difficulty is easily controlled by the creater. 
 
 o To create an unsolvable SATISFIABILITY problem, simply encode a prime number.  
