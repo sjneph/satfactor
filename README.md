@@ -24,7 +24,7 @@ This project has 2 main purposes:
 1) Factor an integer of interest! 
 2) Quickly create either a solvable or unsolvable SATISFIABILITY problem, whose difficulty is easily controlled by the creater. 
 
-o To create an unsolvable SATISFIABILITY problem, simply encode a prime number. 
+o To create an unsolvable SATISFIABILITY problem, simply encode a prime number.  
 o To create more difficult but solvable SATISFIABILITY problems, choose larger composite numbers with fewer factors.
  
 The number of interest may be any size! 
