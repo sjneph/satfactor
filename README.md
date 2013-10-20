@@ -47,7 +47,7 @@ The output would be:
 00011  
 00111 
 
-which are binary representations for decimals 3 and 7, the factors of 21. 
+which are binary representations for decimal integers 3 and 7, the factors of 21. 
  
 If an input integer has more than 2 factors, and the SAT problem is solved, the output will be two of the factors only.  These 
 may not be prime numbers (you could test for that easily in Maxima, Maple, or Mathematica).  You could input each of them to 
@@ -61,4 +61,4 @@ requires a solution file containing a list of integers (on any number of lines).
 
 To-Do 
 ====== 
-Use the gmp library to allow inputs/outputs of any size in decimal form.  Currently I only allow binary integer form (of any size). 
+Use the gmp library to allow inputs/outputs of any size in decimal integer form.  Currently I only allow binary integer form (of any size). 
