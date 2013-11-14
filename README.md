@@ -21,7 +21,7 @@ http://www.satcompetition.org/ and http://www.satlive.org/).  How well can these
 oldest open math problems in existence? 
 
 This project has 2 main purposes: 
-1) Convert the problem and factor an integer of interest! 
+1) Convert the problem and factor an integer of interest!  
 2) Quickly create either a solvable or an unsolvable SATISFIABILITY problem, whose difficulty is easily controlled by the creater. 
 
 o To create an unsolvable SATISFIABILITY problem, simply encode a prime number.  
