@@ -20,12 +20,12 @@ Boolen satisfiability solvers improve every year. Every 2 years, an internationa
 http://www.satcompetition.org/ and http://www.satlive.org/).  How well can these state-of-the-art solvers do against one of the 
 oldest open math problems in existence? 
 
-This project has 2 main purposes: 
+This project has 2 main purposes:  
 1) Convert the problem and factor an integer of interest!  
-2) Quickly create either a solvable or an unsolvable SATISFIABILITY problem, whose difficulty is easily controlled by the creater. 
+2) Quickly create either a solvable or an unsolvable SATISFIABILITY problem, whose difficulty is easily controlled by the creater.  
 
 o To create an unsolvable SATISFIABILITY problem, simply encode a prime number.  
-o To create more difficult but solvable SATISFIABILITY problems, choose larger composite numbers with fewer factors.
+o To create more difficult but solvable problems, choose larger composite numbers with fewer factors.
  
 The number of interest may be any size! 
  
