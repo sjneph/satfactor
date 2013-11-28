@@ -12,6 +12,7 @@
 
 #include <algorithm>
 #include <cstddef>
+#include <exception>
 #include <fstream>
 #include <iostream>
 #include <iterator>
@@ -482,6 +483,8 @@ int main(int argc, char* argv[])
     return(EXIT_SUCCESS);
   } catch(bool) {
     /* already output error msg */
+  } catch(std::exception& s) {
+    std::cerr << s.what() << std::endl;
   } catch(...) {
     std::cerr << "Unknown runtime error" << std::endl;
   }
