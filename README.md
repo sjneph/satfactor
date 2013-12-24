@@ -50,9 +50,7 @@ The output would be:
 which are binary representations for decimal integers 3 and 7, the factors of 21. 
  
 If an input integer has more than 2 factors, and the SAT problem is solved, the output will be two of the factors only.  These 
-may not be prime numbers (you could test for that easily in Maxima, Maple, or Mathematica).  You could input each of them to 
-iencode and try to solve further. UNSAT means an input integer was prime.  The problem of determining if a number is prime is
-much easier (can be solved in polynomial time in the worst case) than integer factorization.
+may not be prime numbers (you could test for that easily in Maxima, Maple, or Mathematica), which is a much easier problem.
 
 Not all SATISFIABILITY solvers output results in the same format.  You may need to doctor those results slightly.  extract-sat 
 requires a solution file containing a list of integers (on any number of lines).  For example, 
