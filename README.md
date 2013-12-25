@@ -39,9 +39,9 @@ How-To
 =======
 Input a number of interest in binary form: 
 
-iencode 10101 > composite.21  
+bin/iencode 10101 > composite.21  
 // solve with your favorite solver and put results in solution.txt  
-extract-sat composite.21 solution.txt  
+bin/extract-sat composite.21 solution.txt  
 
 The output would be:  
 00011  
