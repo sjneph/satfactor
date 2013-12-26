@@ -59,4 +59,4 @@ requires a solution file containing a list of integers (on any number of lines).
 
 To-Do 
 ====== 
-Use the gmp library to allow inputs/outputs of any size in decimal integer form.  Currently I only allow binary integer form (of any size). 
+Use the gmp library to allow input/output integers of any size in decimal form.  I currently allow integers in binary form only (of any size). 
