@@ -4,7 +4,7 @@
 
 Overview
 =========
-Determining factors of a large integer number has been of interest to man since at least Euclid's time. There is no known 
+Determining factors of a large integer number has been of interest to Man since at least Euclid's time. There is no known 
 general algorithm for this problem that scales in less than exponential time with respect to the number of bits needed 
 to represent the integer number. 
 
