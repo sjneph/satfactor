@@ -6,10 +6,7 @@ Overview
 =========
 Determining factors of a large integer number has been of interest to Man since at least Euclid's time. There is no known 
 general algorithm for this problem that scales in less than exponential time with respect to the number of bits needed 
-to represent the integer number. 
-
-Integer factorization is more than just of theoretical interest.  It is the foundation of public RSA encryption that keeps
-your transactions with your bank or an online retailer safe!
+to represent the integer.
 
 What this code does
 ==================== 
@@ -36,7 +33,7 @@ make -C src/
 
 How-To
 =======
-Input a number of interest in binary form: 
+Input a number of interest in its binary form: 
 
 bin/iencode 10101 > composite.21  
 // solve with your favorite solver and put results in solution.txt  
