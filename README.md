@@ -52,7 +52,3 @@ Not all SAT solvers output results in the same format.  You may need to doctor t
 requires a solution file containing a list of integers (on any number of lines).  For example, 
 
 1 -2 3 4 -5 ...
-
-To-Do 
-====== 
-Use the gmp library to allow input/output integers of any size in decimal form.  I currently allow integers in binary form only (of any size). 
