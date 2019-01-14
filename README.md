@@ -49,6 +49,6 @@ If an input integer has more than 2 factors, and the SAT problem is solved, the 
 may not be prime numbers (you could test for that easily in Maxima, Maple, or Mathematica).
 
 Not all SAT solvers output results in the same format.  You may need to doctor those results slightly.  extract-sat 
-requires a solution file containing a list of integers (on any number of lines).  For example, 
+requires a solution file containing a list of integers (on one line).  For example, 
 
 1 -2 3 4 -5 ...
